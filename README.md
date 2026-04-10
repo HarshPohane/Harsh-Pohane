@@ -17,7 +17,6 @@
 
 
 ## 👩🏻‍💻 About Me  
-
 ```yaml
 
 Name: Harsh Pohane
@@ -35,6 +34,7 @@ Email: harshpohane4@gmail.com
 Mission: Master modern technologies and build impactful real-world solutions
 
 ```
+---
 
 
 
