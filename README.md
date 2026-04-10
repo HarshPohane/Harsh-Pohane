@@ -4,8 +4,8 @@
 
 <p align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:06b6d4&height=140&section=header&text=Hey%There!&fontSize=36&fontColor=ffffff" />
-</p>/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:06b6d4&height=140&section=header&text=Hey%-There!&fontSize=36&fontColor=ffffff" />
+</p>
 
 <p align="center">
 
@@ -35,7 +35,7 @@ Email: harshpohane4@gmail.com
 Mission: Master modern technologies and build impactful real-world solutions
 
 ```
----
+
 
 
 
